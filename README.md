@@ -69,7 +69,6 @@ The app is trained on a Bengaluru housing dataset and is deployed with a simple,
 | Feature         | Type    | Description                           |
 |-----------------|---------|---------------------------------------|
 | Area (sqft)     | Float   | Total area of the house               |
-| City            | String  | City name (Bengaluru)                 |
 | Location        | String  | Locality/area within Bengaluru        |
 | Bedrooms        | Integer | Number of bedrooms                    |
 | Bathrooms       | Integer | Number of bathrooms                   |
